@@ -1,0 +1,6 @@
+index:
+    path: /
+    controller: App\Controller\MainPageController::index
+pars:
+    path: /pars
+    controller: App\Controller\ParserController::parseList
